@@ -1,31 +1,30 @@
 City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
-51,Albany,US,88.0,light rain,42.6,-73.97,
-103,Asheville,US,77.0,light rain,35.6,-82.55,Four Points by Sheraton Asheville Downtown
-110,Vanimo,PG,79.68,light rain,-2.67,141.3,Vahmoneh Lodge Vanimo
-119,Cayenne,GF,78.8,light rain,4.93,-52.33,Hôtel Le Dronmi
-135,Sinnamary,GF,77.4,light rain,5.38,-52.95,ALETHEIA Appartement Sinnamary
-154,Itarema,BR,76.98,light rain,-2.92,-39.92,Windvillage
-170,Balikpapan,ID,76.71,light rain,-1.27,116.83,Grand Jatra Hotel Balikpapan
-176,Badarpur,IN,77.79,light rain,24.9,92.6,ONGC KATIGORAH DSA
-214,Amahai,ID,82.0,light rain,-3.33,128.92,Hotel isabella
-224,Madang,PG,79.16,moderate rain,-5.22,145.8,Comfort Inn Hotel
-245,Narasannapeta,IN,82.69,light rain,18.42,84.05,G.lingaraju home
-260,Gabu,GW,80.85,moderate rain,12.28,-14.22,Hotel karsa
-282,Biak,ID,76.19,moderate rain,-0.91,122.88,Kost Ariz
-306,Samarai,PG,79.7,moderate rain,-10.62,150.67,Nuli Sapi
-330,Lorengau,PG,82.83,moderate rain,-2.02,147.27,Lorengau Harbourside Hotel
-333,Takoradi,GH,77.65,light rain,4.88,-1.76,Raybow International Hotel
-366,Kourou,GF,78.8,light rain,5.16,-52.65,Lodge Takini 4
-389,Palmer,US,84.99,light rain,42.16,-72.33,Wedgewood Motel
-390,Orocue,CO,80.87,moderate rain,4.79,-71.34,Hotel Brisas de San Miguel
-405,Kirakira,SB,82.85,light rain,-10.45,161.92,SanBiz Lodge
-415,Mitu,CO,78.53,light rain,1.2,-70.17,
-417,Kerema,PG,78.31,light rain,-7.96,145.78,Elore Lodge
-426,Finschhafen,PG,80.44,light rain,-6.6,147.87,Cossam Guest House
-430,Huilong,CN,77.0,light rain,31.81,121.66,Hilton Garden Inn Qidong
-464,Lakshmipur,BD,81.55,light rain,22.95,90.83,Khalekgonjo Sufi Rowson Ali Dakhil Madrasha
-482,Inirida,CO,79.57,light rain,3.87,-67.92,Fuente del Guania Hotel de Lujo
-486,Nioro,GM,85.53,light rain,13.35,-15.75,
-511,Acarau,BR,76.98,light rain,-2.89,-40.12,castelo pizzaria
-514,Eirunepe,BR,78.04,light rain,-6.66,-69.87,Pousada Novo Acre
-535,Bocana De Paiwas,NI,79.63,light rain,12.79,-85.12,Guapinol Cabaña Monge
+25,Bukoba,TZ,67.57,broken clouds,-1.33,31.81,Elct Bukoba Hotel and Tours
+50,East London,ZA,67.37,clear sky,-33.02,27.91,Tu Casa
+55,Chuy,UY,67.06,overcast clouds,-33.7,-53.46,Nuevo Hotel Plaza
+57,Laje,BR,68.16,few clouds,-10.18,-40.97,Pousada Centro
+67,Saint-Philippe,RE,66.2,few clouds,-21.36,55.77,"Chambres d'hôte ""La Trinité"""
+108,Cacu,BR,68.4,scattered clouds,-18.56,-51.13,Império Hotel
+112,Cumaru,BR,67.05,clear sky,-8.01,-35.7,
+137,Camacha,PT,68.0,scattered clouds,33.08,-16.33,Hotel Porto Santo & Spa
+150,Beidao,CN,67.05,clear sky,34.57,105.89,Shell Tianshui Maiji District Erma Road Walking Street Hotel
+187,Tsaratanana,MG,67.44,clear sky,-16.78,47.65,
+199,Baykit,RU,66.6,broken clouds,61.67,96.37,Gostinitsa
+203,Otsuchi,JP,66.2,broken clouds,39.37,141.9,Sanriku Flower Hotel Hamagiku
+218,Kamaishi,JP,66.2,broken clouds,39.27,141.88,Hotel Route Inn Kamaishi
+231,Chapais,CA,68.0,overcast clouds,49.78,-74.85,Hôtel Opémiska
+235,Hasaki,JP,68.0,light rain,35.73,140.83,Inubosaki Kanko Hotel
+266,Walvis Bay,,68.0,clear sky,-22.96,14.51,Oyster Box Guesthouse
+278,Zeya,RU,66.43,broken clouds,53.75,127.27,Kapital Inn
+294,Kununurra,AU,66.2,clear sky,-15.77,128.73,Hotel Kununurra
+342,Santa Isabel,BR,66.2,overcast clouds,-23.32,-46.22,Chácara Sombra do Altíssimo
+373,Henties Bay,,68.0,clear sky,-22.12,14.28,Fishermans Guest House
+423,Ambilobe,MG,68.14,clear sky,-13.2,49.05,Hôtel & Restaurant DIANA Ambilobe
+450,Tazmalt,DZ,66.2,clear sky,36.39,4.4,Hôtel Numédia
+454,Miyang,CN,67.95,overcast clouds,24.4,103.44,Huibinlou Hotel
+491,Bayir,TR,68.0,few clouds,37.27,28.22,Buban Otel
+493,Manono,CD,68.86,clear sky,-7.3,27.42,Hotel hewa bora
+540,Melfi,IT,68.0,clear sky,41.0,15.65,HOTEL TERME DI RAPOLLA
+545,Banyo,CM,66.15,overcast clouds,6.75,11.82,Motel JOMBA
+560,Caravelas,BR,68.49,clear sky,-17.71,-39.25,Pousada dos Navegantes
+579,Cidreira,BR,67.68,scattered clouds,-30.18,-50.21,Novomar Pousada e Turismo Ltda
