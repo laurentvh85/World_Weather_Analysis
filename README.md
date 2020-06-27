@@ -14,9 +14,12 @@ This program does the following:
 - We then use a google API to find the first hotel in the filtered city list. This data is then scrubbed to get rid of entries that do not have a hotel within the radius that we specified. This dataframe is then saved into a CSV file. 
 ![](image/df_with_hotel.png)
 - We then create a google map with markers that contain the following: hotel name, city, country, and the current weather.
+![](image/all_markers.png)
 ![](image/WeatherPy_vacation_map.png)
 - We then ask the user to input 4 cities that are close to each other on the map. This then creates driving directions between the four cities. The route is based on the order that the cities are typed in.
 ![](image/WeatherPy_travel_map.png)
+- We then have a marker map that only displays the cities that were input by the user.
+![](image/WeatherPy_travel_map_markers.png)
 
 Possible improvements:
 - When the user has to input temperatures and whether it is raining or snowing, I can add a response when the inputs are correct. If not addressed, then the code will choke.
